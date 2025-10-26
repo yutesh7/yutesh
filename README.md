@@ -23,13 +23,6 @@ Welcome to my GitHub! I’m passionate about learning how to build real-world so
 
 ---
 
-### 📊 GitHub Stats
-![Yutesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuteshSingh&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YuteshSingh&layout=compact&theme=radical)
-
----
-
 ### 🚀 Projects
 *(Add your projects here as you build them!)*  
 For example:
@@ -39,8 +32,8 @@ For example:
 ---
 
 ### 🌍 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yutesh-singh-a38687390?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:yutesh4@gmail.com)
 
 ---
 
