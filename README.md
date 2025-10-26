@@ -23,11 +23,10 @@ Welcome to my GitHub! I’m passionate about learning how to build real-world so
 
 ---
 
-### 🚀 Projects
-*(Add your projects here as you build them!)*  
-For example:
-- 🐍 [Python Calculator](https://github.com/YuteshSingh/python-calculator) — A beginner-friendly calculator app built using Python.
-- 🌐 [Personal Portfolio](https://github.com/YuteshSingh/portfolio) — My first website made with HTML & CSS.
+### 🧩 Areas of Interest
+- 🤖 **Machine Learning**
+- 📊 **Data Visualization**
+- ☁️ **Cloud Computing**
 
 ---
 
